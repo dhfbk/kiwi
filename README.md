@@ -1,24 +1,5 @@
-# mt-ann
+# Kessler initial web interface
 
-## Project setup
-```
-npm install
-```
+A Vue/php/MySQL small interface for simple projects.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Credits for logo: [Ragal Kartidev](https://thenounproject.com/budhishakti17/) from [The Noun Project](https://thenounproject.com/).
